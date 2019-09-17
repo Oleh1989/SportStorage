@@ -43,3 +43,6 @@ C:\Users\OlehB\source\repos\SportsStore\SportsStore.UnitTests\bin\Debug\System.W
 C:\Users\OlehB\source\repos\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csproj.CopyComplete
 C:\Users\OlehB\source\repos\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\Users\OlehB\source\repos\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\OlehB\source\repos\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\OlehB\source\repos\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\OlehB\source\repos\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
